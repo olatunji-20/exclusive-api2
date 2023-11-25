@@ -1,0 +1,94 @@
+{
+    "best-products": [
+        {
+            "id": 11,
+            "productName": "The NORTH Coat",
+            "price": 360,
+            "rating": 4.6,
+            "discount": 5,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/north-coat.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 12,
+            "productName": "GUCCI duffle bag",
+            "price": 700,
+            "rating": 5,
+            "discount": 3,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/gucci-bag.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 13,
+            "productName": "RGB Liquid CPU Cooler",
+            "price": 500,
+            "rating": 4.3,
+            "discount": 9,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/rgb.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 14,
+            "productName": "SMALL Bookshelf",
+            "price": 950,
+            "rating": 4.6,
+            "discount": 6,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/small.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 15,
+            "productName": "Jr. Zoom Soccer Cleats",
+            "price": 1180,
+            "rating": 5,
+            "discount": 5,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/cleats.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 16,
+            "productName": "GP11 Shooter USB Gamepad",
+            "price": 650,
+            "rating": 3.7,
+            "discount": 2,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/pad.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 17,
+            "productName": "Quilted Satin Jacket",
+            "price": 240,
+            "rating": 4.1,
+            "discount": 0,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/satin-jacket.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 18,
+            "productName": "KIDS electric car",
+            "price": 180,
+            "rating": 4.7,
+            "discount": 2,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/car.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 19,
+            "productName": "Small Bookshelf",
+            "price": 250,
+            "rating": 4.5,
+            "discount": 8,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/small.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        },
+        {
+            "id": 20,
+            "productName": "ASUS FHD Gaming Laptop",
+            "price": 150,
+            "rating": 5,
+            "discount": 5,
+            "productImage": "https://contentionary-school.netlify.app/exclusive-images/laptop.png",
+            "productDescription": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis obcaecati consequatur iste! In, illo? Corrupti dicta ex adipisci tenetur ea possimus necessitatibus quia optio doloremque? Neque itaque illo praesentium facilis?"
+        }
+    ]
+}
